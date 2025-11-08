@@ -1,1 +1,18 @@
-# portfolio
+# Srivatsa's Cybersecurity Portfolio
+
+An interactive portfolio showcasing my skills in red teaming, AI security, cloud security, and more.
+
+## 🚀 Live Demo
+[View Portfolio](https://your-portfolio-domain.vercel.app)
+
+## 🛠 Built With
+- Vite
+- React + TypeScript
+- Tailwind CSS
+- GSAP
+- Custom Router
+
+## 🧪 Running Locally
+```bash
+npm install
+npm run dev
