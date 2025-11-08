@@ -1,0 +1,50 @@
+[
+  {
+    "title": "AI-Powered Threat Detection System",
+    "description": "Machine learning-based intrusion detection system that analyzes network traffic patterns to identify potential security threats in real-time using deep learning algorithms.",
+    "technologies": ["Python", "TensorFlow", "Scikit-learn", "Docker", "Elasticsearch"],
+    "icon": "BrainIcon",
+    "github": "https://github.com",
+    "demo": null
+  },
+  {
+    "title": "Automated Vulnerability Scanner",
+    "description": "Custom vulnerability assessment tool that performs comprehensive security audits on web applications, identifying OWASP Top 10 vulnerabilities and generating detailed reports.",
+    "technologies": ["Python", "Nmap", "OWASP ZAP", "Burp Suite API", "React"],
+    "icon": "ShieldCheckIcon",
+    "github": "https://github.com",
+    "demo": "https://demo.example.com"
+  },
+  {
+    "title": "Secure Cloud Infrastructure",
+    "description": "Enterprise-grade cloud security architecture implementing zero-trust principles, automated compliance monitoring, and incident response workflows across AWS infrastructure.",
+    "technologies": ["AWS", "Terraform", "Python", "CloudWatch", "Lambda"],
+    "icon": "DatabaseIcon",
+    "github": null,
+    "demo": null
+  },
+  {
+    "title": "Red Team Automation Framework",
+    "description": "Comprehensive penetration testing framework automating reconnaissance, exploitation, and post-exploitation phases with custom payloads and evasion techniques.",
+    "technologies": ["Python", "Metasploit", "PowerShell", "Cobalt Strike", "Docker"],
+    "icon": "ShieldCheckIcon",
+    "github": "https://github.com",
+    "demo": null
+  },
+  {
+    "title": "Security Operations Dashboard",
+    "description": "Real-time security monitoring dashboard aggregating data from multiple sources including SIEM, IDS/IPS, and threat intelligence feeds with automated alerting.",
+    "technologies": ["React", "Node.js", "Splunk API", "D3.js", "WebSocket"],
+    "icon": "DatabaseIcon",
+    "github": "https://github.com",
+    "demo": "https://demo.example.com"
+  },
+  {
+    "title": "Blockchain Security Auditor",
+    "description": "Smart contract security analysis tool that identifies vulnerabilities in Solidity code, performs static and dynamic analysis, and generates comprehensive audit reports.",
+    "technologies": ["Python", "Solidity", "Web3.js", "Slither", "Mythril"],
+    "icon": "BrainIcon",
+    "github": "https://github.com",
+    "demo": null
+  }
+]

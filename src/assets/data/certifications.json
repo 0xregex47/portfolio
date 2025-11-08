@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Offensive Security Certified Professional (OSCP)",
+    "issuer": "Offensive Security",
+    "date": "2023",
+    "credentialId": "OS-XXXXX",
+    "level": "Advanced"
+  },
+  {
+    "name": "Certified Red Team Professional (CRTP)",
+    "issuer": "Altered Security",
+    "date": "2025",
+    "credentialId": "CRTP-XXXXX",
+    "level": "Advanced"
+  },
+  {
+    "name": "eLearnSecurity Junior Penetration Tester (eJPT)",
+    "issuer": "INE Security",
+    "date": "2022",
+    "credentialId": "eJPT-XXXXX",
+    "level": "Intermediate"
+  },
+  {
+    "name": "Certified Ethical Hacker (CEH)",
+    "issuer": "EC-Council",
+    "date": "2022",
+    "credentialId": "ECC-XXXXX",
+    "level": "Intermediate"
+  },
+  {
+    "name": "CompTIA Security+",
+    "issuer": "CompTIA",
+    "date": "2021",
+    "credentialId": "COMP-XXXXX",
+    "level": "Foundational"
+  },
+  {
+    "name": "AWS Certified Security - Specialty",
+    "issuer": "Amazon Web Services",
+    "date": "2023",
+    "credentialId": "AWS-XXXXX",
+    "level": "Advanced"
+  }
+]
