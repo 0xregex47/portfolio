@@ -1,4 +1,4 @@
-# Srivatsa's Cybersecurity Portfolio
+# Portfolio
 
 An interactive portfolio showcasing my skills in red teaming, AI security, cloud security, and more.
 
