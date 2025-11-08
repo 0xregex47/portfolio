@@ -1,44 +1,44 @@
 [
   {
-    "name": "Offensive Security Certified Professional (OSCP)",
-    "issuer": "Offensive Security",
-    "date": "2023",
-    "credentialId": "OS-XXXXX",
-    "level": "Advanced"
-  },
-  {
     "name": "Certified Red Team Professional (CRTP)",
     "issuer": "Altered Security",
     "date": "2025",
-    "credentialId": "CRTP-XXXXX",
+    "credentialId": "ADLID12670",
     "level": "Advanced"
   },
   {
-    "name": "eLearnSecurity Junior Penetration Tester (eJPT)",
-    "issuer": "INE Security",
-    "date": "2022",
-    "credentialId": "eJPT-XXXXX",
+    "name": "CRTA",
+    "issuer": "Cyber Warfare Labs",
+    "date": "2025",
+    "credentialId": "https://www.credential.net/907b2fef-c6d9-4c9d-9e6b-28dfc180c661#acc.TiIoKXrg",
+    "level": "Advanced"
+  },
+  {
+    "name": "Cisco Certified Network Associate (CCNA)",
+    "issuer": "Cisco",
+    "date": "2024",
+    "credentialId": "CSCO14618806",
     "level": "Intermediate"
   },
   {
     "name": "Certified Ethical Hacker (CEH)",
     "issuer": "EC-Council",
-    "date": "2022",
-    "credentialId": "ECC-XXXXX",
+    "date": "2021",
+    "credentialId": "EHCE07904",
     "level": "Intermediate"
   },
   {
-    "name": "CompTIA Security+",
-    "issuer": "CompTIA",
-    "date": "2021",
-    "credentialId": "COMP-XXXXX",
+    "name": "DFIR",
+    "issuer": "Lets Defend",
+    "date": "2025",
+    "credentialId": null,
     "level": "Foundational"
   },
   {
-    "name": "AWS Certified Security - Specialty",
-    "issuer": "Amazon Web Services",
-    "date": "2023",
-    "credentialId": "AWS-XXXXX",
-    "level": "Advanced"
+    "name": "Cybersecurity",
+    "issuer": "A",
+    "date": "2025",
+    "credentialId": null,
+    "level": "Foundational"
   }
 ]
